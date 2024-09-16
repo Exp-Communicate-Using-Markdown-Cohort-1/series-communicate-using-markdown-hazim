@@ -12,3 +12,8 @@
 $ git status
 Checking on the status of the current staging area and seeing it any files need to be added
 ```
+
+- [ ] activate GitHub course
+- [ ] complete the MarkDown course
+- [ ] Wrap it up and start the next one
+
